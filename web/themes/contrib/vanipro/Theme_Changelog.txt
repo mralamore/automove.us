@@ -1,0 +1,44 @@
++===============================+
+Version 10.1.0
+27 Dec, 2022
++===============================+
+# Initial version of series 10.x.x
+
+
++===============================+
+Version 10.1.1
+26 Sep, 2023
++===============================+
+# Fixed minor known bugs
+
+
++===============================+
+Version 11.0.0
+12 Aug, 2024
++===============================+
+# Initial release of 11.x.x series.
+# Drupal 11 compatible.
+# Fixed mini pager display.
+
++===============================+
+Version 11.0.1
+31 Aug, 2024
++===============================+
+# Replaced Owl Carousel by tiny slider.
+# Slider codes should be updated by new slider codes.
+# Updated bootstrap icons to version 1.11.3
+# Updated fontawesome6 to version 6.6.0
+# Removed anomated circles from slider and header.
+# Removed option to select font source from Google CDN. Theme will now load fonts from local source.
+# New block region copyright and cookie_text.
+# Custom copyright text can be added via block region.
+# Cookie consent message can be added via block region.
+
+
++===============================+
+Version 11.0.2
+16 Sep, 2024
++===============================+
+# Fixed pager display.
+# Fixed bootstrap font icons display issue.
+# Discontinued support for Drupal 8

@@ -1,0 +1,19 @@
+# Ignore sensitive files
+web/sites/*/settings*.php
+web/sites/*/services*.yml
+
+# Ignore user uploaded files
+web/sites/*/files/
+!web/sites/*/files/config_*/
+
+# Ignore vendor (rebuilt via composer)
+/vendor/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*~
